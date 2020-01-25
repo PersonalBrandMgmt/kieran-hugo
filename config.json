@@ -3,7 +3,7 @@
   "baseURL": "http://development.kieranpaul.com.s3-website.us-east-2.amazonaws.com/",
   "title": "Kieran Derfus",
   "params": {
-    "first_name": "Kieran",
+    "first_name": "Greg",
     "last_name": "Derfus",
     "email": "kderfus@gmail.com",
     "build": "development",
@@ -147,7 +147,7 @@
     ],
     "intro": [
       {
-        "content": "This for my sister, that for my maple. It's not going the road I'd known as a child of God ... nor to become stable. (So what if I lose? I'm satisfied)",
+        "content": "This for my sister, that for my maple. It's not going the road I'd known as a child of God ... nor to become stable. (So what if I lose? I'm satisfied!)",
         "account_id": "dee652d3-30d5-460d-bea1-4e8df10101d7",
         "id": "91a91833-ba96-44b8-ac4d-130717ef2dea"
       }
