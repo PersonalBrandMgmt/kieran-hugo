@@ -6,14 +6,16 @@
     "accept": "application/json, text/plain, */*",
     "accept-encoding": "gzip, deflate, br",
     "accept-language": "en-US,en;q=0.9",
+    "cache-control": "no-cache",
     "content-type": "application/json",
     "Host": "i1nc1drhji.execute-api.us-east-2.amazonaws.com",
     "origin": "http://localhost:3000",
+    "pragma": "no-cache",
     "referer": "http://localhost:3000/",
     "sec-fetch-mode": "cors",
     "sec-fetch-site": "cross-site",
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
-    "X-Amzn-Trace-Id": "Root=1-5e2dd888-3fc093fab6af6937ebfe8e58",
+    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1",
+    "X-Amzn-Trace-Id": "Root=1-5e2dd89e-c957af933c76522bc880d4dc",
     "x-api-key": "VhE3Aaceq358yBm9GbWkf9uTHljdEpnY8bXdgYsY",
     "X-Forwarded-For": "174.108.230.42",
     "X-Forwarded-Port": "443",
@@ -29,6 +31,9 @@
     "accept-language": [
       "en-US,en;q=0.9"
     ],
+    "cache-control": [
+      "no-cache"
+    ],
     "content-type": [
       "application/json"
     ],
@@ -37,6 +42,9 @@
     ],
     "origin": [
       "http://localhost:3000"
+    ],
+    "pragma": [
+      "no-cache"
     ],
     "referer": [
       "http://localhost:3000/"
@@ -48,10 +56,10 @@
       "cross-site"
     ],
     "User-Agent": [
-      "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36"
+      "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
     ],
     "X-Amzn-Trace-Id": [
-      "Root=1-5e2dd888-3fc093fab6af6937ebfe8e58"
+      "Root=1-5e2dd89e-c957af933c76522bc880d4dc"
     ],
     "x-api-key": [
       "VhE3Aaceq358yBm9GbWkf9uTHljdEpnY8bXdgYsY"
@@ -74,15 +82,15 @@
     "resourceId": "6s6n5t",
     "resourcePath": "/edit-config",
     "httpMethod": "POST",
-    "extendedRequestId": "G67FXFxECYcFkzQ=",
-    "requestTime": "26/Jan/2020:18:20:56 +0000",
+    "extendedRequestId": "G67I1H7TCYcF5vQ=",
+    "requestTime": "26/Jan/2020:18:21:18 +0000",
     "path": "/dev/edit-config",
     "accountId": "273116933489",
     "protocol": "HTTP/1.1",
     "stage": "dev",
     "domainPrefix": "i1nc1drhji",
-    "requestTimeEpoch": 1580062856642,
-    "requestId": "3b9ffb56-865f-40e6-b46f-f3014d419a70",
+    "requestTimeEpoch": 1580062878860,
+    "requestId": "73df8f1f-03dd-4bf8-8aff-777a27f9654a",
     "identity": {
       "cognitoIdentityPoolId": null,
       "cognitoIdentityId": null,
@@ -91,7 +99,7 @@
       "cognitoAuthenticationType": null,
       "userArn": null,
       "apiKeyId": "cuggc3n027",
-      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1",
       "accountId": null,
       "caller": null,
       "sourceIp": "174.108.230.42",
