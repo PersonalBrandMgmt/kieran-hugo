@@ -15,7 +15,7 @@
     "sec-fetch-mode": "cors",
     "sec-fetch-site": "cross-site",
     "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1",
-    "X-Amzn-Trace-Id": "Root=1-5e2dd89e-c957af933c76522bc880d4dc",
+    "X-Amzn-Trace-Id": "Root=1-5e2dd924-e9f12ad122404cbf62de4082",
     "x-api-key": "VhE3Aaceq358yBm9GbWkf9uTHljdEpnY8bXdgYsY",
     "X-Forwarded-For": "174.108.230.42",
     "X-Forwarded-Port": "443",
@@ -59,7 +59,7 @@
       "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
     ],
     "X-Amzn-Trace-Id": [
-      "Root=1-5e2dd89e-c957af933c76522bc880d4dc"
+      "Root=1-5e2dd924-e9f12ad122404cbf62de4082"
     ],
     "x-api-key": [
       "VhE3Aaceq358yBm9GbWkf9uTHljdEpnY8bXdgYsY"
@@ -82,15 +82,15 @@
     "resourceId": "6s6n5t",
     "resourcePath": "/edit-config",
     "httpMethod": "POST",
-    "extendedRequestId": "G67I1H7TCYcF5vQ=",
-    "requestTime": "26/Jan/2020:18:21:18 +0000",
+    "extendedRequestId": "G67dyG_KCYcF9jw=",
+    "requestTime": "26/Jan/2020:18:23:32 +0000",
     "path": "/dev/edit-config",
     "accountId": "273116933489",
     "protocol": "HTTP/1.1",
     "stage": "dev",
     "domainPrefix": "i1nc1drhji",
-    "requestTimeEpoch": 1580062878860,
-    "requestId": "73df8f1f-03dd-4bf8-8aff-777a27f9654a",
+    "requestTimeEpoch": 1580063012901,
+    "requestId": "f85b8601-a127-4c09-9691-1d1f98b7219f",
     "identity": {
       "cognitoIdentityPoolId": null,
       "cognitoIdentityId": null,
